@@ -1,0 +1,13 @@
+table th, table td {
+		border: solid 1px black;
+		text-align: center;
+		height: 2rem;
+	}
+
+	.table-collapse {
+		border-collapse: collapse;
+	}
+
+	 .table-fluid {
+		width: 100%;
+	}
